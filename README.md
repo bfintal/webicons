@@ -1,7 +1,11 @@
 Web Optimized FC Webicons Set
 =====================
 
-This social icon set is pretty awesome, although there were some aspects that I wanted to change in the library. This fork contains the following changes:
+FC Webicons Set is a set of resolution-independent social icons for use on your website. They use feature-detected SVG graphics (with PNG fallbacks) to display the icons over their appropriate negatively indented anchor titles.
+
+-
+
+This social icon set is pretty awesome, although there were some aspects that I wanted to change in the original library. This fork contains the following changes:
 
 1. Dropped SVG support for smaller size and a more simpler approach
 2. Segregated the icons into three style sheets (small, normal, large)
@@ -10,19 +14,7 @@ This social icon set is pretty awesome, although there were some aspects that I 
 
 *Usage is the same as before, only now you have to include the CSS files for the sizes you're going to use.*
 
-**Thanks to FairheadCreative for the icons!**
-
-FC Webicons Set
-=====================
-
-FC Webicons Set is a set of resolution-independent social icons for use on your website. They use feature-detected SVG graphics (with PNG fallbacks) to display the icons over their appropriate negatively indented anchor titles.
-
-If you have icon suggestions, check the issue queue for "Icon Suggestions".
-
-Enjoy FC Webicons!
-
-(Icons are CC-Attrib; attrib to http://fairheadcreative.com; thanks!)
-
+**Thanks to [Fairhead Creative](http://fairheadcreative.com) for the icons!**
 
 Icon List So Far
 =================
@@ -82,8 +74,3 @@ Icon List So Far
 * YouVersion
 * Zerply
 
-
-Fairhead Creative
-=================
-
-[Fairhead Creative](http://fairheadcreative.com) is a design agency that creates Websites, Branding and Illustrations for people just like you.
