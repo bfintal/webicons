@@ -3,14 +3,14 @@ Web Optimized FC Webicons Set
 
 This social icon set is pretty awesome, although there were some aspects that I wanted to change in the library. This fork contains the following changes:
 
-1. Dropped SVG support
+1. Dropped SVG support for smaller size and a more simpler approach
 2. Segregated the icons into three style sheets (small, normal, large)
 3. Turned the PNGs into sprites to lessen HTTP requests (again: small, normal and large sprites)
-4. Cleaned CSS, the original was 20k. It's now split into 4kb files
+4. Cleaned CSS, the original was 20k. It's now split into three 4kb files
 
 *Usage is the same as before, only now you have to include the CSS files for the sizes you're going to use.*
 
-**Thanks to FairheadCreative for the icons**
+**Thanks to FairheadCreative for the icons!**
 
 FC Webicons Set
 =====================
