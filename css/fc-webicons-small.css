@@ -1,0 +1,67 @@
+/* FC Webicons by Fairhead Creative http://fairheadcreative.com */
+/* Modified by BFIntal */
+.fc-webicon.small { 
+    width: 30px;
+    height: 30px;
+    display: inline-block; text-indent: -999em; text-align: left; -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); box-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; margin-bottom: 5px;
+}
+.fc-webicon:hover { margin: -1px 0 1px; -moz-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.25); -webkit-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.25); box-shadow: 0 2px 0 rgba(0, 0, 0, 0.25); }
+.fc-webicon.small { 
+    background: url(../images/webicons-small.png) no-repeat top left;
+    width: 20px; height: 20px; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px;
+}
+
+.fc-webicon.aboutme.small{ background-position: 0 0; } 
+.fc-webicon.adn.small{ background-position: 0 -22px; } 
+.fc-webicon.android.small{ background-position: 0 -44px; } 
+.fc-webicon.apple.small{ background-position: 0 -66px; } 
+.fc-webicon.behance.small{ background-position: 0 -88px; } 
+.fc-webicon.bitbucket.small{ background-position: 0 -110px; } 
+.fc-webicon.coderwall.small{ background-position: 0 -132px; } 
+.fc-webicon.creativecloud.small{ background-position: 0 -154px; } 
+.fc-webicon.dribbble.small{ background-position: 0 -176px; } 
+.fc-webicon.dropbox.small{ background-position: 0 -198px; } 
+.fc-webicon.evernote.small{ background-position: 0 -220px; } 
+.fc-webicon.facebook.small{ background-position: 0 -242px; } 
+.fc-webicon.flickr.small{ background-position: 0 -264px; } 
+.fc-webicon.foursquare.small{ background-position: 0 -286px; } 
+.fc-webicon.git.small{ background-position: 0 -308px; } 
+.fc-webicon.github.small{ background-position: 0 -330px; } 
+.fc-webicon.googleplay.small{ background-position: 0 -352px; } 
+.fc-webicon.googleplus.small{ background-position: 0 -374px; } 
+.fc-webicon.html5.small{ background-position: 0 -396px; } 
+.fc-webicon.icloud.small{ background-position: 0 -418px; } 
+.fc-webicon.instagram.small{ background-position: 0 -440px; } 
+.fc-webicon.lastfm.small{ background-position: 0 -462px; } 
+.fc-webicon.linkedin.small{ background-position: 0 -484px; } 
+.fc-webicon.mail.small{ background-position: 0 -506px; } 
+.fc-webicon.mercurial.small{ background-position: 0 -528px; } 
+.fc-webicon.mixi.small{ background-position: 0 -550px; } 
+.fc-webicon.msn.small{ background-position: 0 -572px; } 
+.fc-webicon.orkut.small{ background-position: 0 -594px; } 
+.fc-webicon.pinterest.small{ background-position: 0 -616px; } 
+.fc-webicon.pocketapp.small{ background-position: 0 -638px; } 
+.fc-webicon.quora.small{ background-position: 0 -660px; } 
+.fc-webicon.rdio.small{ background-position: 0 -682px; } 
+.fc-webicon.renren.small{ background-position: 0 -704px; } 
+.fc-webicon.rss.small{ background-position: 0 -726px; } 
+.fc-webicon.skitch.small{ background-position: 0 -748px; } 
+.fc-webicon.skype.small{ background-position: 0 -770px; } 
+.fc-webicon.soundcloud.small{ background-position: 0 -792px; } 
+.fc-webicon.spotify.small{ background-position: 0 -814px; } 
+.fc-webicon.stackoverflow.small{ background-position: 0 -836px; } 
+.fc-webicon.stumbleupon.small{ background-position: 0 -858px; } 
+.fc-webicon.svn.small{ background-position: 0 -880px; } 
+.fc-webicon.tent.small{ background-position: 0 -902px; } 
+.fc-webicon.tripadvisor.small{ background-position: 0 -924px; } 
+.fc-webicon.tumblr.small{ background-position: 0 -946px; } 
+.fc-webicon.twitter.small{ background-position: 0 -968px; } 
+.fc-webicon.vimeo.small{ background-position: 0 -990px; } 
+.fc-webicon.weibo.small{ background-position: 0 -1012px; } 
+.fc-webicon.windows.small{ background-position: 0 -1034px; } 
+.fc-webicon.wordpress.small{ background-position: 0 -1056px; } 
+.fc-webicon.xing.small{ background-position: 0 -1078px; } 
+.fc-webicon.yelp.small{ background-position: 0 -1100px; } 
+.fc-webicon.youtube.small{ background-position: 0 -1122px; } 
+.fc-webicon.youversion.small{ background-position: 0 -1144px; } 
+.fc-webicon.zerply.small{ background-position: 0 -1166px; } 

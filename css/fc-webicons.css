@@ -1,0 +1,64 @@
+/* FC Webicons by Fairhead Creative http://fairheadcreative.com */
+/* Modified by BFIntal */
+.fc-webicon { 
+    background: url(../images/webicons.png) no-repeat top left;
+    width: 30px;
+    height: 30px;
+    display: inline-block; text-indent: -999em; text-align: left; -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); box-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; margin-bottom: 5px;
+}
+.fc-webicon:hover { margin: -1px 0 1px; -moz-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.25); -webkit-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.25); box-shadow: 0 2px 0 rgba(0, 0, 0, 0.25); }
+
+.fc-webicon.aboutme{ background-position: 0 0; } 
+.fc-webicon.adn{ background-position: 0 -32px; } 
+.fc-webicon.android{ background-position: 0 -64px; } 
+.fc-webicon.apple{ background-position: 0 -96px; } 
+.fc-webicon.behance{ background-position: 0 -128px; } 
+.fc-webicon.bitbucket{ background-position: 0 -160px; } 
+.fc-webicon.coderwall{ background-position: 0 -192px; } 
+.fc-webicon.creativecloud{ background-position: 0 -224px; } 
+.fc-webicon.dribbble{ background-position: 0 -256px; } 
+.fc-webicon.dropbox{ background-position: 0 -288px; } 
+.fc-webicon.evernote{ background-position: 0 -320px; } 
+.fc-webicon.facebook{ background-position: 0 -352px; } 
+.fc-webicon.flickr{ background-position: 0 -384px; } 
+.fc-webicon.foursquare{ background-position: 0 -416px; } 
+.fc-webicon.git{ background-position: 0 -448px; } 
+.fc-webicon.github{ background-position: 0 -480px; } 
+.fc-webicon.googleplay{ background-position: 0 -512px; } 
+.fc-webicon.googleplus{ background-position: 0 -544px; } 
+.fc-webicon.html5{ background-position: 0 -576px; } 
+.fc-webicon.icloud{ background-position: 0 -608px; } 
+.fc-webicon.instagram{ background-position: 0 -640px; } 
+.fc-webicon.lastfm{ background-position: 0 -672px; } 
+.fc-webicon.linkedin{ background-position: 0 -704px; } 
+.fc-webicon.mail{ background-position: 0 -736px; } 
+.fc-webicon.mercurial{ background-position: 0 -768px; } 
+.fc-webicon.mixi{ background-position: 0 -800px; } 
+.fc-webicon.msn{ background-position: 0 -832px; } 
+.fc-webicon.orkut{ background-position: 0 -864px; } 
+.fc-webicon.pinterest{ background-position: 0 -896px; } 
+.fc-webicon.pocketapp{ background-position: 0 -928px; } 
+.fc-webicon.quora{ background-position: 0 -960px; } 
+.fc-webicon.rdio{ background-position: 0 -992px; } 
+.fc-webicon.renren{ background-position: 0 -1024px; } 
+.fc-webicon.rss{ background-position: 0 -1056px; } 
+.fc-webicon.skitch{ background-position: 0 -1088px; } 
+.fc-webicon.skype{ background-position: 0 -1120px; } 
+.fc-webicon.soundcloud{ background-position: 0 -1152px; } 
+.fc-webicon.spotify{ background-position: 0 -1184px; } 
+.fc-webicon.stackoverflow{ background-position: 0 -1216px; } 
+.fc-webicon.stumbleupon{ background-position: 0 -1248px; } 
+.fc-webicon.svn{ background-position: 0 -1280px; } 
+.fc-webicon.tent{ background-position: 0 -1312px; } 
+.fc-webicon.tripadvisor{ background-position: 0 -1344px; } 
+.fc-webicon.tumblr{ background-position: 0 -1376px; } 
+.fc-webicon.twitter{ background-position: 0 -1408px; } 
+.fc-webicon.vimeo{ background-position: 0 -1440px; } 
+.fc-webicon.weibo{ background-position: 0 -1472px; } 
+.fc-webicon.windows{ background-position: 0 -1504px; } 
+.fc-webicon.wordpress{ background-position: 0 -1536px; } 
+.fc-webicon.xing{ background-position: 0 -1568px; } 
+.fc-webicon.yelp{ background-position: 0 -1600px; } 
+.fc-webicon.youtube{ background-position: 0 -1632px; } 
+.fc-webicon.youversion{ background-position: 0 -1664px; } 
+.fc-webicon.zerply{ background-position: 0 -1696px; } 
